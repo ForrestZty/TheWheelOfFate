@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp.csproj", "{26511891-A189-54F4-D922-7F249F4C15B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp-Editor.csproj", "{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26511891-A189-54F4-D922-7F249F4C15B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26511891-A189-54F4-D922-7F249F4C15B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26511891-A189-54F4-D922-7F249F4C15B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26511891-A189-54F4-D922-7F249F4C15B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
