@@ -8,7 +8,7 @@ public class ChaMove : MonoBehaviour {
     private Animator ani; // contorl animator
     private bool Xie = false; // if the character
 
-    public GameObject cube;
+    public Camera Cam;
     public float m_fspeed_r;
 	public float m_fspeed_w;
 	private float r_fspeed = 0f;
@@ -49,30 +49,36 @@ public class ChaMove : MonoBehaviour {
 	Vector3 vecCalculate()
     {
         float x = 0, y = 0, z = 0;
-        
 
+        Vector3 result = new Vector3(0, 0, 0);
         if (Input.GetKey(KeyCode.W))
         {
-            y += 1;
+            //y += 1;
+            result = Cam.transform.forward;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            y -= 1;
+            //y -= 1;
+            result = -Cam.transform.forward;
         }
         if (Input.GetKey(KeyCode.A))
         {
-            x -= 1;
+            //x -= 1;
+            result = -Cam.transform.right;
         }
         if (Input.GetKey(KeyCode.D))
         {
-            x += 1;
+            //x += 1;
+            result = Cam.transform.right;
         }
+        
         if (x != 0 && y != 0)
             Xie = true;
         else
             Xie = false;
 
-        Vector3 result = new Vector3(x,z,y);
+        result.y = 0;
+        //Vector3 result = new Vector3(x,z,y);
         return result;
     }
 
@@ -84,7 +90,7 @@ public class ChaMove : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-
+      
         Vector3 mForward = vecCalculate();
         Vector3 zero = new Vector3(0, 0, 0);
 
