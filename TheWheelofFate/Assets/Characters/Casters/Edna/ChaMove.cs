@@ -54,25 +54,25 @@ public class ChaMove : MonoBehaviour {
         if (Input.GetKey(KeyCode.W))
         {
             //y += 1;
-            result = Cam.transform.forward;
+            result += Cam.transform.forward;
         }
         if (Input.GetKey(KeyCode.S))
         {
             //y -= 1;
-            result = -Cam.transform.forward;
+            result += -Cam.transform.forward;
         }
         if (Input.GetKey(KeyCode.A))
         {
             //x -= 1;
-            result = -Cam.transform.right;
+            result += -Cam.transform.right;
         }
         if (Input.GetKey(KeyCode.D))
         {
             //x += 1;
-            result = Cam.transform.right;
+            result += Cam.transform.right;
         }
         
-        if (x != 0 && y != 0)
+        if (result.x != 0 && result.z != 0)
             Xie = true;
         else
             Xie = false;
@@ -93,7 +93,12 @@ public class ChaMove : MonoBehaviour {
       
         Vector3 mForward = vecCalculate();
         Vector3 zero = new Vector3(0, 0, 0);
-
+        if (!cha.isGrounded)
+        {
+            cha.Move(new Vector3(0, -9.8f * Time.deltaTime, 0));
+            //cc.Move(new Vector3(0, m_gspeed * Time.deltaTime, 0));// 
+            //m_gspeed -= gravity;
+        }
 
         // 1.2 moving
         // running
