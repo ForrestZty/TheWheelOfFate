@@ -105,6 +105,7 @@
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\PlayerScripts\PlayerStates.cs" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/unity3D2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
