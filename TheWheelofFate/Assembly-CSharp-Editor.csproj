@@ -94,18 +94,6 @@
      <Compile Include="Assets\Cinemachine\PostFX\Editor\CinemachinePostProcessingEditor.cs" />
      <Compile Include="Assets\Cinemachine\PostFX\Editor\PostFXAutoImport.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\Editor\CinemachineShotEditor.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimAnimMorphHelperInspector.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimAssignMaterialModel.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimBoneInspector.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimBulletPhysicsInspector.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporter.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimImporterInspector.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimModelInspector.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimPreProcessBuild.cs" />
-     <Compile Include="Assets\MMD4Mecanim\Editor\MMD4MecanimRigidBodyInspector.cs" />
-     <None Include="Assets\MMD4Mecanim\Editor\Revision.txt" />
-     <None Include="Assets\MMD4Mecanim\Editor\PMX2FBX\readme.txt" />
-     <None Include="Assets\MMD4Mecanim\Editor\PMX2FBX\pmx2fbx.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/unity3D2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -171,12 +159,6 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>D:/unity3D2017/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="MMD4MecanimEditor">
- <HintPath>D:/unityproject/TheWheelofFate/Assets/MMD4Mecanim/Editor/MMD4MecanimEditor.dll</HintPath>
- </Reference>
- <Reference Include="MMD4Mecanim">
- <HintPath>D:/unityproject/TheWheelofFate/Assets/MMD4Mecanim/Scripts/MMD4Mecanim.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/abc/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
