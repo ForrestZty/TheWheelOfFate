@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: f2a4005ab00a2ef489fef9f0d5e54bd3
+timeCreated: 1523349233
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 0.joint_Center
+    100002: 1.!Root
+    100004: //RootNode
+    100006: U_Char
+    100008: U_Char_0
+    100010: U_Char_1
+    400000: 0.joint_Center
+    400002: 1.!Root
+    400004: //RootNode
+    400006: U_Char
+    400008: U_Char_0
+    400010: U_Char_1
+    4300000: U_Char_0
+    4300002: U_Char_1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: U_Char_0
+    13700002: U_Char_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0.Rock1A
+    second: {fileID: 2100000, guid: 0554294bbde899b46ab460b196a75129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1.Rock2A
+    second: {fileID: 2100000, guid: c8239f246c92fd0409d18d74d42f196a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10.Rock3B
+    second: {fileID: 2100000, guid: b3e17d533686681408b16e63f0fcd95f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11.Rock4B
+    second: {fileID: 2100000, guid: 396a881957ad4374faf2d9d3b3e0279e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12.Rock5B
+    second: {fileID: 2100000, guid: e833ee3466bf2e94380825abd23154e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13.Soil
+    second: {fileID: 2100000, guid: 3d225a480e62f9b4f8735e9494c9004b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14.Rock7B
+    second: {fileID: 2100000, guid: 66d47704ccc87ac4ab01171a230ab5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15.Rock8B
+    second: {fileID: 2100000, guid: aa0b323876abec5409724ae2eb7dd6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16.Sky
+    second: {fileID: 2100000, guid: e35b14f2428da8245ab928210bc9bb5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17.GlowCracks
+    second: {fileID: 2100000, guid: 3d625e4e63c3b0348a1251d21157f6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18.Chains
+    second: {fileID: 2100000, guid: 124c379fab2aea844889ff99918c941d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19.Mounts
+    second: {fileID: 2100000, guid: 11efba4ab4580884395d5acdae2646fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2.Rock3A
+    second: {fileID: 2100000, guid: 64234c5d996af754fb31d1f0d4a48350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3.Rock4A
+    second: {fileID: 2100000, guid: 036be82bd90c8b34cbbc8106c1e65e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4.Rock5A
+    second: {fileID: 2100000, guid: cdd0d6804abf4a647bd620e596386b4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5.Rock6A
+    second: {fileID: 2100000, guid: 1bf5d31e5d4ddb441ae9092e576d8ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6.Rock7A
+    second: {fileID: 2100000, guid: f0ea981932248cd41bfc0cbe4bb164ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7.Rock9A
+    second: {fileID: 2100000, guid: ea068b80665ce8247b24dc421f77a8e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 8.Rock1B
+    second: {fileID: 2100000, guid: 6e9441d2e259a184cbbc756a502ca7aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9.Rock2B
+    second: {fileID: 2100000, guid: 621c15968db875d448d7e6a05876f095, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
