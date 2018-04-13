@@ -1,0 +1,10 @@
+sceneSetups:
+- path: "Assets/\u56DE\u5408\u5236MK1.unity"
+  isLoaded: 1
+  isActive: 1
+- path: Assets/TBTK/Scenes/TBTK_Menu_Demo.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/TBTK/Scenes/StandAlone/TBTK_StandAlone_CoverSystem.unity
+  isLoaded: 1
+  isActive: 0
