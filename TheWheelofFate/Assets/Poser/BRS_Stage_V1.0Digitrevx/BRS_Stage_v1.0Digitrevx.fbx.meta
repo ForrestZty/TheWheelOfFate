@@ -11,18 +11,30 @@ ModelImporter:
     100006: U_Char
     100008: U_Char_0
     100010: U_Char_1
+    100012: U_Char_0_MeshPart0
+    100014: U_Char_0_MeshPart1
+    100016: U_Char_0_MeshPart2
     400000: 0.joint_Center
     400002: 1.!Root
     400004: //RootNode
     400006: U_Char
     400008: U_Char_0
     400010: U_Char_1
+    400012: U_Char_0_MeshPart0
+    400014: U_Char_0_MeshPart1
+    400016: U_Char_0_MeshPart2
     4300000: U_Char_0
     4300002: U_Char_1
+    4300004: U_Char_0_MeshPart0
+    4300006: U_Char_0_MeshPart1
+    4300008: U_Char_0_MeshPart2
     9500000: //RootNode
     11100000: //RootNode
     13700000: U_Char_0
     13700002: U_Char_1
+    13700004: U_Char_0_MeshPart0
+    13700006: U_Char_0_MeshPart1
+    13700008: U_Char_0_MeshPart2
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -166,8 +178,6 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

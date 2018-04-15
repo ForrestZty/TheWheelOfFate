@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp.csproj", "{26511891-A189-54F4-D922-7F249F4C15B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp-firstpass.csproj", "{B8BFB4EA-A56A-E743-2864-B791C594371A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp-Editor-firstpass.csproj", "{041A70CC-9929-C19B-0595-CD7E1A4C190F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWheelofFate", "Assembly-CSharp-Editor.csproj", "{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}"
 EndProject
 Global
@@ -15,6 +19,14 @@ Global
 		{26511891-A189-54F4-D922-7F249F4C15B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26511891-A189-54F4-D922-7F249F4C15B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26511891-A189-54F4-D922-7F249F4C15B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BFB4EA-A56A-E743-2864-B791C594371A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BFB4EA-A56A-E743-2864-B791C594371A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BFB4EA-A56A-E743-2864-B791C594371A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BFB4EA-A56A-E743-2864-B791C594371A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041A70CC-9929-C19B-0595-CD7E1A4C190F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041A70CC-9929-C19B-0595-CD7E1A4C190F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041A70CC-9929-C19B-0595-CD7E1A4C190F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041A70CC-9929-C19B-0595-CD7E1A4C190F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9242A9-B868-FAC7-EC81-77CDA119CAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
