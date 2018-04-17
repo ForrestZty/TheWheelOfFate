@@ -18,7 +18,7 @@ public class ToScene1 : MonoBehaviour {
     public void LoadSceneOne()
     {
         Globe.nextSceneName = "Scene1";
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("loadingScene");
     }
     
 }
