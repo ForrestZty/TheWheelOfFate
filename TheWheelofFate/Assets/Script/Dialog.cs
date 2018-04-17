@@ -10,7 +10,7 @@ public class Dialog : MonoBehaviour {
     public GameObject dialog;       //弹框                                
     public GameObject button;       //弹框按键
 
-    public GameObject testCube;
+   
 
     // Use this for initialization
     void Start()
@@ -61,13 +61,13 @@ public class Dialog : MonoBehaviour {
     public void DialogActiveFalse()
     {
         dialog.SetActive(false);//让自己隐藏  
-        testCube.SetActive(false);
+        
     }
 
     public void DialogActiveTrue()
     {
         dialog.SetActive(true);
-        testCube.SetActive(true);
+       
         Debug.Log(isActiveAndEnabled);
         
     }
