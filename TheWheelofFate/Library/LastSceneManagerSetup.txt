@@ -1,13 +1,10 @@
 sceneSetups:
-- path: Assets/mainMenu.unity
+- path: Assets/OP.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/mainMenu.unity
+  isLoaded: 0
+  isActive: 0
 - path: Assets/loadingScene.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/BattleScene.unity
-  isLoaded: 0
-  isActive: 0
-- path: Assets/Scene1.unity
   isLoaded: 0
   isActive: 0

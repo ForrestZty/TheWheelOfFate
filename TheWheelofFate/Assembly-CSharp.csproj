@@ -105,6 +105,7 @@
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\Movies\MovieScripts\OPScript.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\AsyncLoadScene.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\Globe.cs" />
      <Compile Include="Assets\PlayerScripts\PlayerStates.cs" />
