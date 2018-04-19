@@ -8,3 +8,9 @@ sceneSetups:
 - path: Assets/loadingScene.unity
   isLoaded: 0
   isActive: 0
+- path: Assets/Scene0.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scene1.unity
+  isLoaded: 0
+  isActive: 0

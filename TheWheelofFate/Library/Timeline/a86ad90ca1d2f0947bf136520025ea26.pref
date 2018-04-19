@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeInFrames: 1
-  timeAreaShownRange: {x: -3.4882934, y: 246.27357}
+  timeAreaShownRange: {x: -1.5913997, y: 103.759254}
   showAudioWaveform: 1
   trackHeight: 30
-  trackScale: 1
+  trackScale: 1.3
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 20, y: 100}
-  windowTime: 0
+  windowTime: 20.05
   m_Keys:
   - {fileID: 114830781035098946, guid: a86ad90ca1d2f0947bf136520025ea26, type: 2}
   m_Vals:

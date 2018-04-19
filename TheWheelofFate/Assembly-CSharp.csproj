@@ -108,6 +108,7 @@
      <Compile Include="Assets\Movies\MovieScripts\OPScript.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\AsyncLoadScene.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\Globe.cs" />
+     <Compile Include="Assets\PlayerScripts\MovieMode.cs" />
      <Compile Include="Assets\PlayerScripts\PlayerStates.cs" />
      <Compile Include="Assets\PlayerScripts\ToScene1.cs" />
      <Compile Include="Assets\Script\Dialog.cs" />

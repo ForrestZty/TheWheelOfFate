@@ -307,6 +307,7 @@ GameObject:
   - component: {fileID: 351465267}
   - component: {fileID: 351465271}
   - component: {fileID: 351465272}
+  - component: {fileID: 351465273}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -370,7 +371,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 351465266}
-  m_LocalRotation: {x: 0.122079544, y: 0.039048426, z: -0.0048067165, w: 0.9917402}
+  m_LocalRotation: {x: 0.12207891, y: 0.03904843, z: -0.0048066913, w: 0.99174035}
   m_LocalPosition: {x: 451.67145, y: 14.56, z: 369.75815}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -422,6 +423,18 @@ MonoBehaviour:
   sphereSaber: {fileID: 1566335328}
   dialog: {fileID: 661265754}
   button: {fileID: 1982629327}
+--- !u!114 &351465273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 351465266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 947c589308532ca438e78e26fc114d48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movieAssets: []
 --- !u!1 &585865114
 GameObject:
   m_ObjectHideFlags: 3
@@ -474,7 +487,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 585865114}
-  m_LocalRotation: {x: 0.122079305, y: 0.039057024, z: -0.0048072883, w: 0.99174}
+  m_LocalRotation: {x: 0.12207888, y: 0.039057042, z: -0.004807275, w: 0.99174005}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1304,7 +1317,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1475184249}
-  m_LocalRotation: {x: 0.09909143, y: 0.03914801, z: -0.0039025636, w: 0.9943003}
+  m_LocalRotation: {x: 0.09909143, y: 0.03914801, z: -0.0039025678, w: 0.9943003}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:

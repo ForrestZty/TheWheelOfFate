@@ -5,9 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class ToScene1 : MonoBehaviour {
 
+    public GameObject soundbox;
 	// Use this for initialization
 	void Start () {
-		
+        DontDestroyOnLoad(soundbox);
 	}
 	
 	// Update is called once per frame
