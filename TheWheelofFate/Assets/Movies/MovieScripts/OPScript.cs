@@ -31,7 +31,8 @@ public class OPScript : MonoBehaviour {
     void Update () {
         if (Input.anyKeyDown)
         {
-            
+            vp.Stop();
+            operation.allowSceneActivation = true;
         }
     }
     void Prepared(VideoPlayer vp)
