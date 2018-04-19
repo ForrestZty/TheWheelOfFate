@@ -1,5 +1,6 @@
 WindowsStandalone
 SceneListBegin?
+Assets/OP.unity
 Assets/mainMenu.unity
 Assets/Scene1.unity
 Assets/loadingScene.unity
@@ -255,3 +256,4 @@ ef47b5b296e56702c76218de521ccc37 Assembly-CSharp.dll:Cinemachine.CinemachineBrai
 9dd74a41363b134db6b934985dfd2f92 Assembly-CSharp.dll:Cinemachine.CinemachineClearShot
 1615dbdfe8e3ba4f943114b32d2d1cae Assembly-UnityScript-firstpass.dll:.NoiseAndGrain
 0f3d4bb7128a287827d041c696039525 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
+91d643ee2105972402b73f59373e04d4 Assembly-CSharp.dll:.OPScript

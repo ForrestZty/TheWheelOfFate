@@ -105,11 +105,13 @@
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
      <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
+     <Compile Include="Assets\Movies\MovieScripts\OPScript.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\AsyncLoadScene.cs" />
      <Compile Include="Assets\PlayerScripts\mainMenuScripts\Globe.cs" />
      <Compile Include="Assets\PlayerScripts\PlayerStates.cs" />
      <Compile Include="Assets\PlayerScripts\ToScene1.cs" />
      <Compile Include="Assets\Script\Dialog.cs" />
+     <None Include="Assets\Script\Duse_Catoon_02.shader" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>D:/unityproject/github/TheWheelOfFate/TheWheelofFate/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
