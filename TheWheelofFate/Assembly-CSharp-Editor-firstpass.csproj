@@ -71,6 +71,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\RadialBlur.shader" />
+     <None Include="Assets\Medieval Environment\Shaders\TriPlanarTerrain\Shaders\triPlanarTerrainAddPass.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\ContrastComposite.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
@@ -78,7 +79,10 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\Contrast Stretch\Apply.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\frag_ao.cginc" />
+     <None Include="Assets\Medieval Environment\Shaders\TriPlanarTerrain\Shaders\triPlanarTerrain.shader" />
      <None Include="Assets\Script\Duse_Catoon_02.shader" />
+     <None Include="Assets\Medieval Environment\Shaders\Blend SM3.shader" />
+     <None Include="Assets\Medieval Environment\readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
@@ -99,6 +103,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_DepthOfField\Bokeh34.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+     <None Include="Assets\Medieval Environment\Shaders\shader info.txt" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\BlurEffectConeTaps.shader" />
@@ -118,6 +123,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\Medieval Environment\Shaders\Desaturate\DesaturateEffect.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
@@ -127,6 +133,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\SimpleClear.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\Medieval Environment\Shaders\Blend SM2.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\EdgeDetectX.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
