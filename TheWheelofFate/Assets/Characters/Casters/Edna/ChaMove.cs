@@ -48,7 +48,7 @@ public class ChaMove : MonoBehaviour {
 	// the direction character move
 	Vector3 vecCalculate()
     {
-        float x = 0, y = 0, z = 0;
+      
 
         Vector3 result = new Vector3(0, 0, 0);
         if (Input.GetKey(KeyCode.W))
@@ -90,7 +90,7 @@ public class ChaMove : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-      
+        if (Globe.canBeControlled == true) { 
         Vector3 mForward = vecCalculate();
         Vector3 zero = new Vector3(0, 0, 0);
         if (!cha.isGrounded)
@@ -169,6 +169,6 @@ public class ChaMove : MonoBehaviour {
         {
             r_fspeed = m_fspeed_w;
         }
-        
+        }
     }
 }
