@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ToScene1 : MonoBehaviour {
 
+    public string sceneName;
     public GameObject soundbox;
 	// Use this for initialization
 	void Start () {
@@ -18,7 +19,7 @@ public class ToScene1 : MonoBehaviour {
 
     public void LoadSceneOne()
     {
-        Globe.nextSceneName = "Scene1";
+        Globe.nextSceneName = sceneName;
         SceneManager.LoadScene("loadingScene");
     }
     

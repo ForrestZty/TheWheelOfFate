@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/terrain.unity
+- path: Assets/OP.unity
   isLoaded: 1
   isActive: 1
 - path: Assets/mainMenu.unity
@@ -9,6 +9,9 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/loadingScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scene0.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/Scene1.unity
