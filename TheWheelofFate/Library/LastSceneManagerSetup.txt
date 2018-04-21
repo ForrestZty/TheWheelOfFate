@@ -17,3 +17,6 @@ sceneSetups:
 - path: Assets/Scene1.unity
   isLoaded: 0
   isActive: 0
+- path: Assets/terrain.unity
+  isLoaded: 0
+  isActive: 0

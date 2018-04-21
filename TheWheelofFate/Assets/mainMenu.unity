@@ -981,7 +981,7 @@ GameObject:
   - component: {fileID: 986149626}
   - component: {fileID: 986149624}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: soundbox
   m_TagString: SoundBox
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/mainMenu.unity
     guid: b1a45075e89ef424f921c5f7e38d5a85
   - enabled: 1
+    path: Assets/Scene0.unity
+    guid: aeb10da9c19405e48a72664d38abe888
+  - enabled: 1
     path: Assets/Scene1.unity
     guid: 57c7b569a0ab12f4897e938a0c824070
   - enabled: 1
@@ -20,3 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BattleScene.unity
     guid: 4ea894caa13715c479483be4277e10aa
+  - enabled: 0
+    path: Assets/terrain.unity
+    guid: 0bdeacf1bbb94e24ab3acb261f43d4b6
