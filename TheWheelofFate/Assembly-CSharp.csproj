@@ -51,6 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Advanced Toon Shading\Screen Effect\Bloom\Bloom.cs" />
+     <Compile Include="Assets\Advanced Toon Shading\Screen Effect\ColorSuite\ColorSuite.cs" />
+     <Compile Include="Assets\Advanced Toon Shading\Scripts\CamRotate.cs" />
+     <Compile Include="Assets\Advanced Toon Shading\Scripts\CamRotator.cs" />
      <Compile Include="Assets\Archanor\Sci-Fi Arsenal\InteractiveDemo\Demo Scripts\SciFiBeamScript.cs" />
      <Compile Include="Assets\Archanor\Sci-Fi Arsenal\InteractiveDemo\Demo Scripts\SciFiButtonScript.cs" />
      <Compile Include="Assets\Archanor\Sci-Fi Arsenal\InteractiveDemo\Demo Scripts\SciFiDragMouseOrbit.cs" />
@@ -125,17 +129,32 @@
      <Compile Include="Assets\PlayerScripts\MovieMode.cs" />
      <Compile Include="Assets\PlayerScripts\PlayerStates.cs" />
      <Compile Include="Assets\PlayerScripts\Scene0Scripts\StoryLine4Scene0.cs" />
+     <Compile Include="Assets\PlayerScripts\Scene1Scripts\StoryLine4Scene1.cs" />
      <Compile Include="Assets\PlayerScripts\ToScene1.cs" />
      <Compile Include="Assets\Script\Dialog.cs" />
      <Compile Include="Assets\setTouxiang.cs" />
+     <None Include="Assets\Advanced Toon Shading\Scene\README.txt" />
+     <None Include="Assets\Advanced Toon Shading\Shader\Glow.shader" />
+     <None Include="Assets\TOZ\Vertex Painter\Resources\Shaders\Debug\VertexColors.shader" />
+     <None Include="Assets\Advanced Toon Shading\Screen Effect\Bloom\Shader\Bloom.shader" />
+     <None Include="Assets\Advanced Toon Shading\Screen Effect\Bloom\Shader\Bloom.cginc" />
+     <None Include="Assets\Advanced Toon Shading\Shader\FireAdditive.shader" />
      <None Include="Assets\Medieval Environment\Shaders\TriPlanarTerrain\Shaders\triPlanarTerrainAddPass.shader" />
+     <None Include="Assets\Advanced Toon Shading\Shader\Cel Shader.shader" />
+     <None Include="Assets\TOZ\Vertex Painter\Resources\Shaders\Object\Splat\VertexColors\Standard.shader" />
      <None Include="Assets\Medieval Environment\Shaders\TriPlanarTerrain\Shaders\triPlanarTerrain.shader" />
      <None Include="Assets\Script\Duse_Catoon_02.shader" />
      <None Include="Assets\Medieval Environment\Shaders\Blend SM3.shader" />
      <None Include="Assets\Medieval Environment\readme.txt" />
+     <None Include="Assets\Advanced Toon Shading\Screen Effect\ColorSuite\Shader\ColorSuite.shader" />
+     <None Include="Assets\TOZ\Vertex Painter\Readme.txt" />
      <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
+     <None Include="Assets\Allsky\allsky_readme.txt" />
+     <None Include="Assets\Advanced Toon Shading\Shader\DecalBlended.shader" />
      <None Include="Assets\Medieval Environment\Shaders\shader info.txt" />
+     <None Include="Assets\Advanced Toon Shading\Shader\FireBlended.shader" />
      <None Include="Assets\Medieval Environment\Shaders\Desaturate\DesaturateEffect.shader" />
+     <None Include="Assets\TOZ\Vertex Painter\Resources\Shaders\Object\Splat\VertexColors\Unlit.shader" />
      <None Include="Assets\Archanor\Sci-Fi Arsenal\Sci-Fi Arsenal Readme.txt" />
      <None Include="Assets\Medieval Environment\Shaders\Blend SM2.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">

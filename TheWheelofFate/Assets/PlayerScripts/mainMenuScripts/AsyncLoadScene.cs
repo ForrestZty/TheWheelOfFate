@@ -15,6 +15,8 @@ public class AsyncLoadScene : MonoBehaviour
 
     private AsyncOperation operation;
 
+    public Image lily;
+    public Image mord;
     // Use this for initialization
     void Start()
     {
@@ -24,6 +26,14 @@ public class AsyncLoadScene : MonoBehaviour
         {
             //启动协程
             StartCoroutine(AsyncLoading());
+        }
+        if (Globe.nextSceneName == "Scene0")
+        {
+            mord.gameObject.SetActive(true);
+        }
+        if (Globe.nextSceneName == "Scene1")
+        {
+            lily.gameObject.SetActive(true);
         }
     }
 
@@ -62,6 +72,14 @@ public class AsyncLoadScene : MonoBehaviour
         if ((int)(loadingSlider.value * 100) == 100)
         {
             //允许异步加载完毕后自动切换场景
+            if (Globe.nextSceneName == "Scene0")
+            {
+                mord.gameObject.SetActive(false);
+            }
+            if (Globe.nextSceneName == "Scene1")
+            {
+                lily.gameObject.SetActive(false);
+            }
             operation.allowSceneActivation = true;
         }
     }

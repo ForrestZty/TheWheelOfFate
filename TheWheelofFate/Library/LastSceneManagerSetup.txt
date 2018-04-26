@@ -1,7 +1,7 @@
 sceneSetups:
 - path: Assets/OP.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
 - path: Assets/mainMenu.unity
   isLoaded: 0
   isActive: 0
@@ -12,8 +12,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/Scene0.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/Scene1.unity
   isLoaded: 0
   isActive: 0

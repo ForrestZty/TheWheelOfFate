@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.Video;
 using UnityEngine.SceneManagement;
 
+
 public class StoryLine4Scene0 : MonoBehaviour {
 
     public GameObject trigger1;
@@ -11,6 +12,7 @@ public class StoryLine4Scene0 : MonoBehaviour {
     public GameObject trigger3;
 
     private GameObject soundbox;
+
     
     public VideoPlayer movie1, movie2;    
 	// Use this for initialization

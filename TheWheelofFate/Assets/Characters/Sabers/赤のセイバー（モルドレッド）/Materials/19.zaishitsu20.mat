@@ -38,6 +38,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ILMTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 9fe462eba154e56468e676524f98acfa, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -62,6 +66,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: ff514584a020c5541bf771138ce0e2b6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SSSTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SphereCube:
         m_Texture: {fileID: 8900000, guid: 24d0ef904b48fcc459aef97f942e1764, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -84,6 +92,7 @@ Material:
     - _AmbientToDiffuse: 5
     - _BumpScale: 1
     - _Cutoff: 0.5
+    - _DarkenInnerLine: 0.2
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EdgeScale: 0.001
@@ -100,10 +109,12 @@ Material:
     - _Mode: 0
     - _NoShadowCasting: 0
     - _OcclusionStrength: 1
+    - _Outline: 0
     - _OutlineWidth: 0
     - _Parallax: 0.02
     - _Power: 2
     - _Revision: 2
+    - _ShadowContrast: 1
     - _ShadowLum: 1.5
     - _Shininess: 5
     - _SmoothnessTextureChannel: 0

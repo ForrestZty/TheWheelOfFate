@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Advanced Toon Shading\Screen Effect\Bloom\Editor\BloomEditor.cs" />
+     <Compile Include="Assets\Advanced Toon Shading\Screen Effect\Bloom\Editor\BloomGraphDrawer.cs" />
+     <Compile Include="Assets\Advanced Toon Shading\Screen Effect\ColorSuite\Editor\ColorSuiteEditor.cs" />
      <Compile Include="Assets\Cinemachine\Base\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs" />
      <Compile Include="Assets\Cinemachine\Base\Editor\Editors\CinemachineBlenderSettingsEditor.cs" />
      <Compile Include="Assets\Cinemachine\Base\Editor\Editors\CinemachineBlendListCameraEditor.cs" />
@@ -100,6 +103,7 @@
      <Compile Include="Assets\Medieval Environment\Standard Assets\Editor\Water (Pro Only)\Water4\SpecularLightingEditor.cs" />
      <Compile Include="Assets\Medieval Environment\Standard Assets\Editor\Water (Pro Only)\Water4\WaterBaseEditor.cs" />
      <Compile Include="Assets\Medieval Environment\Standard Assets\Editor\Water (Pro Only)\Water4\WaterEditorUtility.cs" />
+     <Compile Include="Assets\TOZ\Vertex Painter\Editor\TOZ\Tools\VertexPainter.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>D:/unityproject/github/TheWheelOfFate/TheWheelofFate/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
