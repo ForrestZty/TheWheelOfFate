@@ -3127,6 +3127,7 @@ CanvasGroup:
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!95 &836668045
 Animator:
   serializedVersion: 3
@@ -3390,6 +3391,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 30935fda57ba92043b16635a569cfa92, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 =======
 >>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 --- !u!1 &914389416
@@ -4185,6 +4188,7 @@ PlayableDirector:
   m_ExposedReferences:
     m_References: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1103029831
 Prefab:
   m_ObjectHideFlags: 0
@@ -4360,6 +4364,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb45c98426c77d9438823ea2ac4e706f, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 =======
 >>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 --- !u!1 &1163675373
@@ -4984,6 +4990,7 @@ MeshCollider:
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: c46f463dfa6945f4aa8421c845b50b85, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1359551051
 Prefab:
   m_ObjectHideFlags: 0
@@ -5050,6 +5057,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6486d11ec1b7189428d44b47afb6adbb, type: 3}
   m_IsPrefabParent: 0
+=======
+>>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 =======
 >>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 --- !u!1 &1391230757
@@ -6038,6 +6047,7 @@ Transform:
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1869305485
 Prefab:
   m_ObjectHideFlags: 0
@@ -6174,6 +6184,8 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 30935fda57ba92043b16635a569cfa92, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 =======
 >>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 --- !u!1 &1899111684
@@ -6325,7 +6337,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2023470633}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: -0.011111888, y: -0.9086034, z: -0.024239432, w: 0.41680786}
+=======
+  m_LocalRotation: {x: -0.0023945414, y: -0.9953558, z: -0.025697442, w: 0.092740335}
+>>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
 =======
   m_LocalRotation: {x: -0.0023945414, y: -0.9953558, z: -0.025697442, w: 0.092740335}
 >>>>>>> 66bc8e85e2c3fce72d88e9d4890724f179b86ded
