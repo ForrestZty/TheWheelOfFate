@@ -132,6 +132,7 @@
      <Compile Include="Assets\PlayerScripts\Scene1Scripts\StoryLine4Scene1.cs" />
      <Compile Include="Assets\PlayerScripts\ToScene1.cs" />
      <Compile Include="Assets\Script\Dialog.cs" />
+     <Compile Include="Assets\setPhoto.cs" />
      <Compile Include="Assets\setTouxiang.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
