@@ -68,10 +68,12 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\ColorCorrectionCurves.shader" />
      <None Include="Assets\Advanced Toon Shading\Shader\FireAdditive.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\MBS\CML\Using_CML.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+     <None Include="Assets\MBS\Slider\Using_mbsSlider.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\GlowCompose.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\Contrast Stretch\MinMaxReduction.shader" />
@@ -83,9 +85,12 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\ContrastComposite.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\MBS\GUIX\Using_GUIX.txt" />
+     <None Include="Assets\MBS\Core_ReadMe.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\Contrast Stretch\Apply.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\frag_ao.cginc" />
+     <None Include="Assets\MBS\StateMachine\Using_mbsStatemachineLeech.txt" />
      <None Include="Assets\TOZ\Vertex Painter\Resources\Shaders\Object\Splat\VertexColors\Standard.shader" />
      <None Include="Assets\Medieval Environment\Shaders\TriPlanarTerrain\Shaders\triPlanarTerrain.shader" />
      <None Include="Assets\Script\Duse_Catoon_02.shader" />
@@ -121,6 +126,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\MBS\StateMachine\Using_mbsStatemachine.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\ColorCorrectionEffect.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\GrayscaleEffect.shader" />
@@ -135,6 +141,8 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\Tonemapper.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\MBS\Encoding\Using_Encoder.txt" />
+     <None Include="Assets\MBS\StatusMessage\Using_StatusMessage.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Medieval Environment\Shaders\Desaturate\DesaturateEffect.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\EdgeDetectNormals.shader" />
@@ -150,6 +158,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
      <None Include="Assets\Medieval Environment\Shaders\Blend SM2.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\EdgeDetectX.shader" />
+     <None Include="Assets\MBS\PleaseWait\Using_PleaseWait.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>D:/git/TheWheelOfFate/TheWheelofFate/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
